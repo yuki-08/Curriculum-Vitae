@@ -1,7 +1,7 @@
 # 職務経歴書 Curriculum-Vitae
 
 ## 学歴EDUCATION
-### 2016年3月卒業   [仙台高等専門学校ネットワーク工学科](https://www.sendai-nct.ac.jp/)
+### 2016年3月卒業   [仙台高等専門学校 情報ネットワーク工学科](https://www.sendai-nct.ac.jp/)
 #### 授業内容
  * C言語基礎,C++による画像処理,LAMPによるAPIを用いたwebアプリ開発実習,JS実習
  * 卒検： C++を用いたロボカップサッカー・小型カップへの参加
