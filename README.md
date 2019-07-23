@@ -67,6 +67,7 @@
 ## 希望条件
 * 副業禁止規定が無いこと
 * リモートワークが可能なこと
+* フレックスタイムなこと
 
 ## 共感を得たもの
 * [マルチポテンシャライト](https://www.ted.com/talks/emilie_wapnick_why_some_of_us_don_t_have_one_true_calling/transcript?language=ja)
