@@ -8,7 +8,7 @@
   * [参考URL](https://www.youtube.com/watch?v=mKflWij246I)
 
 ## 職務経歴 EXPERIENCE
-### 2016年04月〜2017年05月   [パナソニックシステムソリューションズジャパン株式会社](https://www.panasonic.com/jp/company/pssj/company.html)
+### 2015年04月〜2016年05月   [パナソニックシステムソリューションズジャパン株式会社](https://www.panasonic.com/jp/company/pssj/company.html)
 #### 会社概要
 * 売上高： 2,994億円（2017年度実績）  
 * 事業内容： 通信システムの販売等  
@@ -21,7 +21,7 @@
   * 大手配達倉庫への監視カメラ設備設置
   * 監視カメラ、業務用プロジェクター、監視モニター等の保守点検
 
-### 2017年06月〜現在   [株式会社オプティム](https://www.optim.co.jp/corporate/information)
+### 2016年06月〜現在   [株式会社オプティム](https://www.optim.co.jp/corporate/information)
 
 #### 会社概要
 * 売上高： 4,210百万円（2018年3月期）
