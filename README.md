@@ -21,7 +21,7 @@
   * 大手配達倉庫への監視カメラ設備設置
   * 監視カメラ、業務用プロジェクター、監視モニター等の保守点検
 
-### 2016年06月〜現在   [株式会社オプティム](https://www.optim.co.jp/corporate/information)
+### 2017年06月〜現在   [株式会社オプティム](https://www.optim.co.jp/corporate/information)
 
 #### 会社概要
 * 売上高： 4,210百万円（2018年3月期）
